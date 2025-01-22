@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #000;
+}
+
+/* Achtergrondkleuren per cel */
+#cel1 { background-color: #ff9999; }
+#cel3 { background-color: #99ff99; }
+#cel5 { background-color: #9999ff; }
+#cel7 { background-color: #ffff99; }
+#cel9 { background-color: #ffcc99; }
+#cel11 { background-color: #99ccff; }
+#cel13 { background-color: #ffb3b3; }
+#cel15 { background-color: #b3ffb3; }
+
+img {
+    width: 100px;
+    height: auto;
